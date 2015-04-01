@@ -1,0 +1,12 @@
+Snack Accounts 
+	emails:
+		romeo@enso.com
+		john@clivern.com
+		mark@clivern.com
+		karl@clivern.com
+		marl@clivern.com
+		mary@clivern.com
+		sels@clivern.com
+		taylor@clivern.com
+	password:admin
+	
